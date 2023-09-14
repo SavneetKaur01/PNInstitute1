@@ -751,7 +751,7 @@ a:visited {
 }
 
 .registration {
-    background: url(../assets/images/4.jpg), rgba(0, 0, 0, .5);
+    background: url(../assets/images/4.JPG), rgba(0, 0, 0, .5);
     background-blend-mode: darken;
     background-size: cover;
     padding: 3em 0
